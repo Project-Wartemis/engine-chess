@@ -1,0 +1,32 @@
+{
+  "name": "pw-engine-chess",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "start": "tsc && node dist/index.js",
+    "lint": "tslint --project .",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Project-Wartemis/engine-chess.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Project-Wartemis/engine-chess/issues"
+  },
+  "homepage": "https://github.com/Project-Wartemis/engine-chess#readme",
+  "dependencies": {
+    "chess.js": "^0.11.0",
+    "typescript-logging": "^0.6.4",
+    "wartemis": "^1.0.6"
+  },
+  "devDependencies": {
+    "@types/node": "^14.14.31",
+    "tslint": "^6.1.2",
+    "tslint-etc": "^1.11.1",
+    "typescript": "^3.9.5"
+  }
+}
