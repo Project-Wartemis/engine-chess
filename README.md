@@ -1,8 +1,6 @@
-# Planet Wars Engine for Wartemis
+# Chess Engine for Wartemis
 
-This is a TypeScript implementation for the game called `Planet Wars`.
-The mechanics of the game were taken from [MOZAIC](https://github.com/ZeusWPI/MOZAIC) which held a one-time competition in 2018,
-which was inspired on the [2010 Fall competition](https://en.wikipedia.org/wiki/AI_Challenge) organized by Google and the University of Waterloo.
+This is a TypeScript implementation for `Chess`.
 
 ### Dependencies
 
